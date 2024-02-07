@@ -1,4 +1,4 @@
-# Data-Science-In-Finance
+# Unsupervised-Learning
 
 Hi! Here you can find the datasets and code that we have used for unsupervised learning lab :)
 
